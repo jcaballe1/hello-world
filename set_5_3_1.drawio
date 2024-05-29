@@ -1,10 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2024-05-29T11:55:12.483Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="sDFkibRfl4RJkX-SsZF5" version="24.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-29T12:02:34.625Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="k-YfAct8ZlaFpKijd0nF" version="24.4.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="Bm2pCjnk2mmBYdMknGZP-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Bm2pCjnk2mmBYdMknGZP-29" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;dashed=1;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="120" y="150" width="720" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="Bm2pCjnk2mmBYdMknGZP-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;dashed=1;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="130" y="170" width="380" height="240" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="Bm2pCjnk2mmBYdMknGZP-0" edge="1">
@@ -13,13 +16,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Initial transaction" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="100" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="90" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Bm2pCjnk2mmBYdMknGZP-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Bm2pCjnk2mmBYdMknGZP-0" target="Bm2pCjnk2mmBYdMknGZP-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Bm2pCjnk2mmBYdMknGZP-0" value="Compare Social &amp;amp; Economic output to &quot;deserved&quot; level" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="190" width="120" height="60" as="geometry" />
+        <mxCell id="Bm2pCjnk2mmBYdMknGZP-0" value="Mutual comparison of Social &amp;amp; Economic outputs vs. &quot;deserved&quot; level" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="145" y="190" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Bm2pCjnk2mmBYdMknGZP-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Bm2pCjnk2mmBYdMknGZP-1" target="Bm2pCjnk2mmBYdMknGZP-10">
           <mxGeometry relative="1" as="geometry" />
@@ -37,11 +40,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Bm2pCjnk2mmBYdMknGZP-1" value="Acceptable&amp;nbsp;&lt;div&gt;level?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="290" width="100" height="80" as="geometry" />
+        <mxCell id="Bm2pCjnk2mmBYdMknGZP-1" value="Acceptable&amp;nbsp;&lt;div&gt;level achieved?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="290" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Bm2pCjnk2mmBYdMknGZP-8" value="Terminate&amp;nbsp;&lt;div&gt;relationship&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Bm2pCjnk2mmBYdMknGZP-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Bm2pCjnk2mmBYdMknGZP-10" target="Bm2pCjnk2mmBYdMknGZP-0">
           <mxGeometry relative="1" as="geometry" />
@@ -49,11 +52,20 @@
         <mxCell id="Bm2pCjnk2mmBYdMknGZP-10" value="New transation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Bm2pCjnk2mmBYdMknGZP-17" value="Many positive&lt;div&gt;episodes&lt;/div&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=2;shape=mxgraph.lean_mapping.physical_pull;pointerEvents=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="450" y="190" width="30" height="30" as="geometry" />
+        <mxCell id="Bm2pCjnk2mmBYdMknGZP-17" value="After repeated&amp;nbsp;&lt;div&gt;positive&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;episodes&lt;/span&gt;&lt;/div&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=2;shape=mxgraph.lean_mapping.physical_pull;pointerEvents=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="190" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Bm2pCjnk2mmBYdMknGZP-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="590" y="310" width="120" height="60" as="geometry" />
+        <mxCell id="Bm2pCjnk2mmBYdMknGZP-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Bm2pCjnk2mmBYdMknGZP-18" target="Bm2pCjnk2mmBYdMknGZP-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bm2pCjnk2mmBYdMknGZP-18" value="Build of interdependence and commitment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="540" y="175" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Bm2pCjnk2mmBYdMknGZP-25" value="Build of Trust and Relational exchange norms" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="700" y="175" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Bm2pCjnk2mmBYdMknGZP-27" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="500" y="200" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
