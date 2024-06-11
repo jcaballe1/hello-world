@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-10T12:18:38.679Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="bDH_vR19aqQTx3D-Wpux" version="24.4.10" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-11T10:01:34.922Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="7f51xSoRoqSjtjaKOZWQ" version="24.5.2" type="github">
   <diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">
     <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -32,7 +32,7 @@
           <mxGeometry x="457" y="200" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="60da8b9f42644d3a-19" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Can I disclose information on the marketplace?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Can competitors misuse the information?&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Negative effects&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;in others&#39; behavior?&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="457" y="500" width="280" height="90" as="geometry" />
+          <mxGeometry x="457" y="490" width="280" height="90" as="geometry" />
         </mxCell>
         <mxCell id="60da8b9f42644d3a-20" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="477" y="260" width="240" height="10" as="geometry" />
